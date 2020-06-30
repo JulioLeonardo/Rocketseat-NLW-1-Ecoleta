@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Made%20by-Rocketseat-brightgreen&style=flat&logo">
   </a>
   <a>
-  <img src="https://img.shields.io/github/license/Suburbanno/Ecoleta?style=flat&logo">
+  <img src="https://img.shields.io/github/licenseJulioLeonardo/Rocketseat-NLW-1-Ecoleta?style=flat&logo">
 </p>
 
 ## 🔖 About
@@ -25,7 +25,7 @@ Web aplication built on <strong>Starter</strong> track of the <strong>Next Level
 
 ## 🖼 Screenshot
 
-<img src="https://imgur.com/qVe8AAT">
+<img src="https://i.imgur.com/qVe8AAT.jpg">
 
 ## 🚀 Technologies
 
