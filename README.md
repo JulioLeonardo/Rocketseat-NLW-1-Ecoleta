@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img width="300px" src="https://i.imgur.com/thB3TEi.png">
+    <img width="300px" src="https://i.imgur.com/my0k1yW.png">
     <br><br>
     <p align="center">
       <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
