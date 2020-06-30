@@ -7,15 +7,8 @@
       <a href="#-contribute">Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
       <a href="#-license">License</a>
   </p>
-
 </h3>
-<p align="center">
-  <a href="https://rocketseat.com.br">
-    <img src="https://img.shields.io/badge/Made%20by-Rocketseat-brightgreen&style=flat&logo">
-  </a>
-  <a>
-  <img src="https://img.shields.io/github/license/JulioLeonardo/Rocketseat-NLW-1-Ecoleta?style=flat&logo">
-</p>
+
 
 ## 🔖 About
 
